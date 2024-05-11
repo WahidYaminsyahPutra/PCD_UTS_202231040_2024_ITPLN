@@ -164,3 +164,7 @@ plt.show()
 - Melakukan thresholding pada citra awal (asumsinya adalah citra grayscale) menggunakan `cv2.threshold()` dengan ambang batas 145.
 - Hasil thresholding ditampilkan di subplot keempat sebagai "RED-GREEN-BLUE".
 - Menggunakan `plt.show()` untuk menampilkan semua subplots.
+
+teori Pendukung 
+[https://www.geeksforgeeks.org/opencv-python-tutorial/](https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)
+https://docs.opencv.org/3.4/d8/dbc/tutorial_histogram_calculation.html
