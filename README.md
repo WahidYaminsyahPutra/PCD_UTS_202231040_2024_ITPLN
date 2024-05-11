@@ -165,6 +165,6 @@ plt.show()
 - Hasil thresholding ditampilkan di subplot keempat sebagai "RED-GREEN-BLUE".
 - Menggunakan `plt.show()` untuk menampilkan semua subplots.
 
-teori Pendukung 
-[https://www.geeksforgeeks.org/opencv-python-tutorial/](https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)
+teori Pendukung<br> 
+[https://www.geeksforgeeks.org/opencv-python-tutorial/](https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)<br>
 https://docs.opencv.org/3.4/d8/dbc/tutorial_histogram_calculation.html
